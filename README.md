@@ -47,8 +47,8 @@ Follow these steps to set up and run the **RecipeQuest** project on your local m
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/RecipeQuest.git
-cd RecipeQuest
+git clone https://github.com/your-username/RecipeQuests.git
+cd RecipeQuests
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ### 4. Run the Streamlit App
 Start the Streamlit app by running the following command:
 ```bash
-streamlit run spoonacular_project.py
+streamlit run main.py
 ```
 
 ### 5. Set Up Your API Key
