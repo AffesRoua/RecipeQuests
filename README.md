@@ -47,7 +47,7 @@ Follow these steps to set up and run the **RecipeQuest** project on your local m
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/RecipeQuests.git
+git clone https://github.com/AffesRoua/RecipeQuests.git
 cd RecipeQuests
 ```
 
